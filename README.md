@@ -17,7 +17,7 @@
      ]
    } 
 ```
-5. Create Jest configuration file to extend Jest setup. Open terminal and run `mkdir jest && cd jest && touch setup.js && cd ../´ on project root.
+5. Create Jest configuration file to extend Jest setup. Open terminal and run `mkdir jest && cd jest && touch setup.js && cd ../ on project root.
 6. Open the file and add:
 ```
 import 'react-native-gesture-handler/jestSetup';
