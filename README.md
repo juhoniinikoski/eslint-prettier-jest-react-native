@@ -1,4 +1,4 @@
-# eslint-prettier-jest-setup-react-native
+# eslint-prettier-jest-react-native
 
 ## Setting up Jest
 
