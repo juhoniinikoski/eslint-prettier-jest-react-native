@@ -3,7 +3,7 @@
 ## Setting up Jest
 
 1. Install expo dependencies by running `expo install jest-expo jest`
-2. Install `react-native-test-renderer` by pickng a version that is compatible with the React version used by your project. For example, if you use React 17.x then you should install react-test-renderer@17: `npm i react-test-renderer@17 --save-dev`
+2. Install **react-native-test-renderer** by picking a version that is compatible with the React version used by your project. For example, if you use React 17.x then you should install react-test-renderer@17: `npm i react-test-renderer@17 --save-dev`
 3. Install another dependecies by running `npm i react-native-gesture-handler react-native-reanimated` and `npm i --save-dev @types/jest @testing-library/react-native`
 4. Configure Jest in **package.json** by adding:
 ```
